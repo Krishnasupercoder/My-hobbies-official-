@@ -50,3 +50,8 @@ background-color:white;
 #wasup{
 font-family: 'Cedarville Cursive', cursive;    
 }
+img{
+width: 175px;
+border-radius:50%;
+margin-bottom: 50px;    
+}
